@@ -7,3 +7,6 @@
 6. Utiliza la función convertirFahrenheit para mostrar la temperatura en grados Fahrenheit en la consola.
 7. Crea una funcion llamada esPar que tome un numero como argumento y devuelva true o false si el numero es par. Puedes utilizar el operador modulo % para ver si tiene resto la operación y saber si es par o no.
 8. Utiliza la función esPar */
+
+
+const esPar = (num) => num % 2 === 0;
